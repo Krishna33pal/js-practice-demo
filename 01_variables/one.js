@@ -3,6 +3,10 @@ let accountEmail = "abc@gmail.com";
 var accountPass =  "12345";
 accountCity = "Satna";
 
+ let accountstate;
+
+ // by default data undefined hota hain .......
+
 //accountId = 2  // not change it
  
 accountEmail = "ram@gmail.com"
@@ -16,6 +20,6 @@ accountCity = "Chandigarh"
      because of issue   in block scope and functional scope..... 
 */
 
-console.table([accountEmail,accountId,accountPass,accountCity]);
+console.table([accountEmail,accountId,accountPass,accountCity,accountstate]);
 
 console.log(accountId);
