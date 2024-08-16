@@ -1,2 +1,2 @@
 # js-practice-demo
-This is pratice of java
+This is pratice of javascript
